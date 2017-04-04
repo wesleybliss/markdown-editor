@@ -1,0 +1,23 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "[Use it here](//jbt.github.io/markdown-editor)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleybliss/markdown-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleybliss/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/wesleybliss/markdown-editor#readme",
+  "dependencies": {
+    "electron": "^1.6.2"
+  }
+}
